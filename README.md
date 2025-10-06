@@ -33,12 +33,11 @@ Effective Communication · Team Collaboration · Time Management · Methodical �
 - 🌍 **GIS Data Integration** – Combining spatial data (ArcGIS/QGIS) with operational databases  
 - 📈 **Mining Operations Dashboard** – Power BI solution for ore control & production tracking  
 
-*(More projects coming soon — stay tuned!)*  
-
 ---
 
 ## 📫 Contact  
 
 - **LinkedIn**: [www.linkedin.com/in/sergio-manrique-0456a4133](https://www.linkedin.com/in/sergio-manrique-0456a4133)  
 - **Email (UNI – Peru):** sergio.manrique.c@uni.pe  
-- **Email (UNF – Canada):** sergio.manrique8018@myunfc.ca  
+- **Email (UNF – Canada):** sergio.manrique8018@myunfc.ca
+- **Email :** sergio.manrique.ca@gmail.com
